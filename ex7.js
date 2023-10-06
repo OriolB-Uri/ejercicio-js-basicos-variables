@@ -15,5 +15,5 @@ let numJuguetes = 5;
 let numHorasSueño = 16;
 let jugandoAhora = "pelota";
 
-let historiaGato; // modificar solamente  esta línea
+let historiaGato = "Mi gato se llama Michi " + nombreGato + ", tiene " + edadGato + " y pesa " + pesoGato + "Kilos. Es de color " + colorGato + " y tiene una personalidad " + personalidadGato + ".\nLe encanta comer " + comidaFavorita + " y tiene " + numJuguetes + " juguetes diferentes. Necesita dormir al menos " + numHorasSueño + " horas al día.\nAhora mismo está jugando con su " + jugandoAhora + ". ¡ Es un gato muy feliz!"; // modificar solamente  esta línea
 console.log(historiaGato);

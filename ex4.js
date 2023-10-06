@@ -16,7 +16,10 @@
  * 
  */
 
-let numeroGatos = 10;
+let numeroGatos = 2;
+let pareja = " Antonieta ";
+let pais = " Suiza ";
+let trabajo = " programador "
 
 let futuro = "tendréis " + numeroGatos + " gatos";
-console.log(futuro);
+console.log("Tú estarás en" + pais + "trabajando de" + trabajo + "y tu pareja será" + pareja + "y " + futuro);
